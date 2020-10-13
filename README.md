@@ -20,7 +20,7 @@ Tips and Tricks for graduates and mentors starting a Fellowship group
 - Graduates from HackYourFuture are to spend a minimum of 20 hours a week dedicated to this Fellowship project. The more, the better. 
 - Fellows mentoring graduates from HYF commit to 2-4 hours of mentoring per week (depending on availability and amount of mentors in the team)
 
-## Student Best Practices:
+## Students Best Practices:
 We ask graduates to make the most out of this practice. Show proactivity and exceed expectations. Ask your mentors to review your code, to give you feedback on how you communicate, to help you plan the best way to approach the practice, etc. Remember that when you are working on a company YOU are responsible for your performance so don’t expect the mentors to ‘push you’ or be there to keep you accountable.  Also:
 
 - Be on top of your planning and take an active role in working and asking for mentoring so you end up with a better project and increase your learnings (and odds to be hired afterwards). 
