@@ -34,7 +34,7 @@ We ask mentors to take an active mentoring role in this practice. That means, do
 - Keep in mind  that most of our graduates haven’t worked on a tech team before so they have (and want) a lot to learn. Do be empathic and understand they are not senior developers though.
 - Plan weekly meetings to set goals and deliverables and to review the work done. This will help students improve their planning and use their weeks as effectively as possible.
 - Make yourself available to answer questions and be clear on when and how you are able to do so. We can set up a Slack group for you all to manage communication easily.
-- Learning how to write clean code requires not only practice but also guidance. Do code reviews regularly/weekly. Use this as an opportunity to point out best practices. During HackYourFuture, all our code reviews are done directly on GitHub so our graduates are also used to that. Here an [example on how we do it](https://github.com/HackYourFuture/post-grad-ed/blob/master/how-to-code-review.md)
+- Learning how to write clean code requires not only practice but also guidance. Do code reviews regularly/weekly. Use this as an opportunity to point out best practices. During HackYourFuture, all our code reviews are done directly on GitHub so our graduates are also used to that. Here an [example on how we do it](https://github.com/HackYourFuture/post-grad-ed/blob/master/how-to-code-review.md).
 - Mistakes are going to be made, so be sure you show those mistakes as they are part of learning. 
 - Allow graduates to make mistakes before you tell them the “right” way. Instead of telling them how to do something, try to help them figure it out by themselves. This will help improve their ability to logically work through a problem and increases their learning ability. As John Crosby has rightly said: “Mentoring is a brain to pick, an ear to listen, and a push in the right direction”.
 - If you feel the work or communication with the graduates is not going as you would expect, please communicate with the HackYourFuture team. For us is very important to have an idea on how the student development is going so that we can better help them find a job which is HackYourFuture’s ultimate objective.
@@ -48,7 +48,7 @@ Note that this information is just for reference. If you have a better way of do
 - Communication: Does the graduate communicates clearly with both colleagues and mentors? Do they reply to feedback constructively? Are they active in the work?
 - Responsibility and proactivity: Are they actively drinking the project forward? Are they on time for meetings? Are they actively looking for ways to improve themselves and the MVP?
 
-Here you can find a link to the [performance review template](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy)
+Here you can find a link to the [performance review template](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy).
 
 ## Some questions to discuss on the kickoff meeting:
 - Whats going to be the dedication (in time) from mentors and graduates? Having clear expectations here on both side will increase the performance of the collaboration.
