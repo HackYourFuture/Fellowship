@@ -1,4 +1,7 @@
-# Fellowship Best Practices
+
+
+
+# Best Practices
 Tips and Tricks for graduates and mentors starting a Fellowship group
 
 ## The main goals for this program are:
