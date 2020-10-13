@@ -1,4 +1,4 @@
-![Postgrad](fellowshipheader.png)
+![Fellowship Header](fellowshipheader.png)
 
 # Best Practices
 Tips and Tricks for graduates and mentors starting a Fellowship group
