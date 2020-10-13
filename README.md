@@ -64,8 +64,7 @@ We ask you graduates and mentors to be sure that the application is live and dep
 ## Fellowship Examples:
 
 #### SRDEV Journal: [Code](https://github.com/HackYourFuture/srdevjournal) | [Demo](https://srdevjournal.netlify.app/)
-
-### Elastic Newsfeed: [Code](https://github.com/msnmz/news-feed) | [Demo](https://news-feed-es.netlify.app/)
+#### Elastic Newsfeed: [Code](https://github.com/msnmz/news-feed) | [Demo](https://news-feed-es.netlify.app/)
 
 ————
 
