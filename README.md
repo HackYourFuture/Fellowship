@@ -61,6 +61,16 @@ Here you can find a link to the [performance review template](https://docs.googl
 ## Project end (for graduates):
 We ask you graduates and mentors to be sure that the application is live and deployed at the end of the practice so we can share it with our community and motivate other students. Additionally, we ask graduates to make a film showing the app and sharing their experience and learning. If you have questions about this reach out to us!
 
+## Fellowship Examples:
+
+### SRDEV Journal: 
+[Code:](https://github.com/HackYourFuture/srdevjournal)
+[Demo:](https://srdevjournal.netlify.app/)
+
+### Elastic Newsfeed
+[Code:](https://github.com/msnmz/news-feed)
+[Demo:](https://news-feed-es.netlify.app/)
+
 ————
 
-This guide is work in process. If you have suggestions on how to improve it, please submit a PR or connect with [Federico Fusco](mailto:federico@hackyourfuture.net) to share and discuss your ideas. They will be more than welcome and appreciated! 
+This guide is work in progress. If you have suggestions on how to improve it, please submit a PR or connect with [Federico Fusco](mailto:federico@hackyourfuture.net) to share and discuss your ideas. They will be more than welcome and appreciated! 
