@@ -61,4 +61,4 @@ We ask you graduates and mentors to be sure that the application is live and dep
 
 ————
 
-### This guide is work in process. If you have suggestions on how to improve it, please submit a PR or connect with [Federico Fusco](mailto:federico@hackyourfuture.net) to share and discuss your ideas. They will be more than welcome and appreciated! 
+This guide is work in process. If you have suggestions on how to improve it, please submit a PR or connect with [Federico Fusco](mailto:federico@hackyourfuture.net) to share and discuss your ideas. They will be more than welcome and appreciated! 
