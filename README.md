@@ -8,7 +8,7 @@ Tips and Tricks for graduates and mentors starting a Fellowship group
 - To support HYF graduates in the building of a portfolio project to be added to their CV (and impress prospective employers!)
 - To enable Fellowship Mentors to further develop/practice their leadership & coaching abilities and create a positive impact on society by helping others.
 
-## Learning objectives for students:
+## Learning objectives for trainees:
 - Get further accustomed to meetings, stand-ups, and code reviews/feedback.
 - Practice English and online collaboration.
 - Revise and implement concepts learned throughout the program. For more information, check our curriculum.
@@ -20,7 +20,7 @@ Tips and Tricks for graduates and mentors starting a Fellowship group
 - Graduates from HackYourFuture are to spend a minimum of 20 hours a week dedicated to this Fellowship project. The more, the better. 
 - Fellows mentoring graduates from HYF commit to 2-4 hours of mentoring per week (depending on availability and amount of mentors in the team)
 
-## Students Best Practices:
+## Trainees' Best Practices:
 We ask graduates to make the most out of this practice. Show proactivity and exceed expectations. Ask your mentors to review your code, to give you feedback on how you communicate, to help you plan the best way to approach the practice, etc. Remember that when you are working on a company YOU are responsible for your performance so don’t expect the mentors to ‘push you’ or be there to keep you accountable.  Also:
 
 - Be on top of your planning and take an active role in working and asking for mentoring so you end up with a better project and increase your learnings (and odds to be hired afterwards). 
@@ -32,12 +32,12 @@ We ask graduates to make the most out of this practice. Show proactivity and exc
 We ask mentors to take an active mentoring role in this practice. That means, do not wait until the graduate has questions but instead challenge him/her to do their best week after week. Expect and motivate proactivity and good performance. Think of the graduates on your team as new interns at your company. Give constructive feedback especially when it is difficult. Also:
 
 - Keep in mind  that most of our graduates haven’t worked on a tech team before so they have (and want) a lot to learn. Do be empathic and understand they are not senior developers though.
-- Plan weekly meetings to set goals and deliverables and to review the work done. This will help students improve their planning and use their weeks as effectively as possible.
+- Plan weekly meetings to set goals and deliverables and to review the work done. This will help trainees improve their planning and use their weeks as effectively as possible.
 - Make yourself available to answer questions and be clear on when and how you are able to do so. We can set up a Slack group for you all to manage communication easily.
 - Learning how to write clean code requires not only practice but also guidance. Do code reviews regularly/weekly. Use this as an opportunity to point out best practices. During HackYourFuture, all our code reviews are done directly on GitHub so our graduates are also used to that. Here an [example on how we do it](https://github.com/HackYourFuture/post-grad-ed/blob/master/how-to-code-review.md).
 - Mistakes are going to be made, so be sure you show those mistakes as they are part of learning. 
 - Allow graduates to make mistakes before you tell them the “right” way. Instead of telling them how to do something, try to help them figure it out by themselves. This will help improve their ability to logically work through a problem and increase their learning ability. As John Crosby has rightly said: “Mentoring is a brain to pick, an ear to listen, and a push in the right direction”.
-- If you feel the work or communication with the graduates is not going as you would expect, please communicate with the HackYourFuture team. For us it is very important to have an idea on how the student development is going so that we can better help them find a job which is HackYourFuture’s ultimate objective.
+- If you feel the work or communication with the graduates is not going as you would expect, please communicate with the HackYourFuture team. For us it is very important to have an idea on how the trainee's development is going so that we can better help them find a job which is HackYourFuture’s ultimate objective.
 - After the first MVP (4 weeks or practice) we recommend giving a quick / written performance review to each of the graduates to provide them with feedback on how they performed in the past 4 weeks and how they can improve moving forward. Below we share some criteria on how to do this and here you can find a template to make your job easier. Once the Performance Review is ready, please share it with the graduates over a call (to answer any questions they might have) and also with the HYF team so we can keep involved in our graduates performance and help them better to find a job or internship as soon as possible. Here you can find a link to the [performance review template](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy).
 
 
@@ -59,7 +59,7 @@ Here you can find a link to the [performance review template](https://docs.googl
 - …
 
 ## Project end (for graduates):
-We ask you graduates and mentors to be sure that the application is live and deployed at the end of the practice so we can share it with our community and motivate other students. Additionally, we ask graduates to make a film showing the app and sharing their experience and learning. If you have questions about this reach out to us!
+We ask you graduates and mentors to be sure that the application is live and deployed at the end of the practice so we can share it with our community and motivate other trainees. Additionally, we ask graduates to make a film showing the app and sharing their experience and learning. If you have questions about this reach out to us!
 
 ## Fellowship Examples:
 
